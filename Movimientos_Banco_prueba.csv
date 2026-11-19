@@ -1,0 +1,19 @@
+ID banco,Fecha banco,Referencia,Descripción,Importe EUR
+B001,2026-10-01,FAC-1001,Pago proveedor Atlas,-1250.00
+B002,2026-10-02,CLI-2001,Cobro cliente Norte,3250.00
+B003,2026-10-03,COM-001,Comisión bancaria transferencia,-18.50
+B004,2026-10-04,TRF-009,Transferencia a filial,-800.00
+B005,2026-10-05,CLI-3001,Cobro cliente Delta,1750.00
+B006,2026-10-06,CHQ-801,Cheque proveedor Sol,-520.00
+B007,2026-10-08,FAC-1002,Pago proveedor Río,-980.00
+B008,2026-10-10,NOM-10,Nómina octubre,-5400.00
+B009,2026-10-12,TPV-552,Liquidación TPV,640.00
+B010,2026-10-14,CLI-4002,Cobro cliente Vega,2100.00
+B011,2026-10-15,COM-002,Comisión mantenimiento,-12.75
+B012,2026-10-16,SEPA-001,Recibo suministros,-450.00
+B013,2026-10-18,TRF-EXTRA,Transferencia pendiente de registrar,-300.00
+B014,2026-10-20,DUP-100,Cargo duplicado detectado,-75.00
+B015,2026-10-20,DUP-100,Cargo duplicado detectado,-75.00
+B016,2026-10-21,FAC-9999,Pago factura con diferencia,-600.00
+B017,2026-10-24,EFEC-001,Ingreso de efectivo,900.00
+B018,2026-10-28,COM-003,Comisión bancaria pendiente,-9.50
