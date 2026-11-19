@@ -100,11 +100,13 @@ Actualmente no hay un modelo de IA activo ni se presentan resultados simulados c
 
 ## Capturas
 
+## Capturas
+
 ![Conciliación bancaria](./Captura%20de%20pantalla%202026-11-19%20195210.png)
 
-![Excepciones](./02_excepciones.png)
+![Excepciones](./Captura%20de%20pantalla%202026-11-19%20195254.png)
 
-![Configuración de IA](./03_configuracion_ia.png)
+![Configuración de IA](./Captura%20de%20pantalla%202026-11-19%20195332.png)
 
 ## Autor
 
